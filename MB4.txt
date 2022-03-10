@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 firstbranch first file, modified in firstbranch
+=======
+firstbranch first file, modifird in firstbranch
+>>>>>>> 024546a (modifying MB4)
